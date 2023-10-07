@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Student" ADD COLUMN     "cgpa" INTEGER NOT NULL DEFAULT 10;
